@@ -1,0 +1,43 @@
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.deps.json
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.json
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.dev.json
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.dll
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.pdb
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfoInputs.cache
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfo.cs
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.dll
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.pdb
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csprojAssemblyReference.cache
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.deps.json
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.json
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.dev.json
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.dll
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.pdb
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csproj.CoreCompileInputs.cache
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfoInputs.cache
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfo.cs
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.dll
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.pdb
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.deps.json
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.json
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.dev.json
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.dll
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.pdb
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csprojAssemblyReference.cache
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csproj.CoreCompileInputs.cache
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfoInputs.cache
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfo.cs
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.dll
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.pdb
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.deps.json
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.json
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.dev.json
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.dll
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.pdb
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csprojAssemblyReference.cache
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csproj.CoreCompileInputs.cache
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfoInputs.cache
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfo.cs
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.dll
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.pdb

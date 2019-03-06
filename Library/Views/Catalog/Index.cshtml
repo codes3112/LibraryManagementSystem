@@ -1,0 +1,69 @@
+﻿
+@model Library.Models.Catalog.AssetIndexModel
+@{
+    ViewBag.Title = "Library Catalog Index";
+}
+
+<div id="assets">
+    <h3>Library Catalog</h3>
+    <div id="assetsTable">
+        <table class="table table-condensed" id="catalogIndexTable">
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>Title</th>
+                    <th>Author / Director</th>
+                    <th>Dewey Call Number</th>
+                    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                    {
+                        <th>Edit Asset</th>
+                    <th>Delete Asset</th>}
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var asset in @Model.Assets)
+                {
+                <tr class="assetRow">
+                    <td class="">
+                        <div>
+                            <a asp-controller="Catalog" asp-action="Detail" asp-route-id="@asset.Id">
+                                <img src="@asset.ImageUrl" class="imageCell" />
+                            </a>
+                        </div>
+                    </td>
+                    <td class="">@asset.Title</td>
+                    <td class="">@asset.AuthorOrDirector</td>
+                    <td class="">@asset.DewyCallNumber</td>
+                    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                    {
+                        <td><a class="btn btn-info" asp-area="" asp-controller="Catalog" asp-action="Update" asp-route-id="@asset.Id">Edit</a></td>
+                    <td><a class="btn btn-danger" asp-area="" asp-controller="Catalog" asp-action="Delete" asp-route-id="@asset.Id"
+                    data-confirm="Are you sure you want to delete this Item?">Delete</a></td>}
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+@section Styles {
+        <link href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css" />
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="http://cdn.datatables.net/plug-ins/a5734b29083/integration/bootstrap/3/dataTables.bootstrap.css" rel="stylesheet" type="text/css" />
+    }
+    @section Scripts {
+        <script type="text/javascript" src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+        <script type="text/javascript" src="http://cdn.datatables.net/plug-ins/a5734b29083/integration/bootstrap/3/dataTables.bootstrap.js"></script>
+
+        <script>
+            $(document).ready(function () {
+                $('#catalogIndexTable').DataTable();
+
+                $('[data-confirm]').click(function (e) {
+                    if (!confirm($(this).attr("data-confirm"))) {
+                        e.preventDefault();
+                    }
+                });
+            });
+        </script>
+    }

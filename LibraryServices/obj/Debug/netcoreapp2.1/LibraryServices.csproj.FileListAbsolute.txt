@@ -1,0 +1,50 @@
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.deps.json
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.dll
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.pdb
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.dll
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.pdb
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csprojAssemblyReference.cache
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfo.cs
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CopyComplete
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.dll
+C:\Users\Sneha\Documents\Dotnet\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.pdb
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.deps.json
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.dll
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.pdb
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.dll
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.pdb
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csprojAssemblyReference.cache
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CoreCompileInputs.cache
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfoInputs.cache
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfo.cs
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CopyComplete
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.dll
+F:\ASPdotNet\Library Identity Tryout\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.pdb
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.deps.json
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.dll
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.pdb
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.dll
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.pdb
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csprojAssemblyReference.cache
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CoreCompileInputs.cache
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfoInputs.cache
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfo.cs
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CopyComplete
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.dll
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library(styled with carousel)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.pdb
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.deps.json
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.dll
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.pdb
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.dll
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.pdb
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csprojAssemblyReference.cache
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CoreCompileInputs.cache
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfoInputs.cache
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfo.cs
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CopyComplete
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.dll
+F:\ASPdotNet\LibraryWithIdentity(Final)\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.pdb
