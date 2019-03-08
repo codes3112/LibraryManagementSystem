@@ -5,9 +5,9 @@ Based on MVC/MVVM approach
 
 Separate View, Data And Service Layers.
 
-Incorporated Identity for authentication and Security
+Incorporated Identity for Authentication and Security
 
-Materialize and Bootstrap used for Styling.
+Materialize used for Styling.
 
 MySQL(MariaDB) used as database backend.
 
