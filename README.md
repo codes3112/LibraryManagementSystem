@@ -11,5 +11,6 @@ Materialize and Bootstrap used for Styling.
 
 MySQL(MariaDB) used as database backend.
 
-//Setup
+#Setup
+
 Create a database in MySQL and run update-database command from Package Manager Console. Run the demoscript query in the database.
